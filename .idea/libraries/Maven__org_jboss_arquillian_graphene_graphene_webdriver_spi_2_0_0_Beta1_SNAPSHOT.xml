@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.arquillian.graphene:graphene-webdriver-spi:2.0.0.Beta1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/graphene/graphene-webdriver-spi/2.0.0.Beta1-SNAPSHOT/graphene-webdriver-spi-2.0.0.Beta1-20130613.041741-213.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/graphene/graphene-webdriver-spi/2.0.0.Beta1-SNAPSHOT/graphene-webdriver-spi-2.0.0.Beta1-20130613.041741-213-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/graphene/graphene-webdriver-spi/2.0.0.Beta1-SNAPSHOT/graphene-webdriver-spi-2.0.0.Beta1-20130613.041741-213-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

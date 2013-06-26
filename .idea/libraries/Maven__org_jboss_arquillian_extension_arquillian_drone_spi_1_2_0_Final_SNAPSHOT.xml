@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jboss.arquillian.extension:arquillian-drone-spi:1.2.0.Final-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/extension/arquillian-drone-spi/1.2.0.Final-SNAPSHOT/arquillian-drone-spi-1.2.0.Final-20130602.081755-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/extension/arquillian-drone-spi/1.2.0.Final-SNAPSHOT/arquillian-drone-spi-1.2.0.Final-20130602.081755-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/extension/arquillian-drone-spi/1.2.0.Final-SNAPSHOT/arquillian-drone-spi-1.2.0.Final-20130602.081755-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

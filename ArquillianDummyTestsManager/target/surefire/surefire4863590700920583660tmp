@@ -1,0 +1,5 @@
+#surefire
+#Wed Jun 26 17:05:00 CEST 2013
+user.dir=/home/tkriz/Development/Sources/TadeasKriz/ArquillianDummyTests/ArquillianDummyTestsManager
+localRepository=/home/tkriz/.m2/repository
+basedir=/home/tkriz/Development/Sources/TadeasKriz/ArquillianDummyTests/ArquillianDummyTestsManager
