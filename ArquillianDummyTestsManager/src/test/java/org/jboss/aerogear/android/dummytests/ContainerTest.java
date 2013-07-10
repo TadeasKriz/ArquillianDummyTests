@@ -53,6 +53,7 @@ public class ContainerTest {
         assertTrue(device != null);
         assertTrue(driver != null);
         System.out.println(driver.getCapabilities().toString());
+
     }
 
     @Test
@@ -66,6 +67,7 @@ public class ContainerTest {
         textField.sendKeys("test");
 
         assertEquals(textField.getText(), "test");
+
     }
 
     @Test
@@ -87,6 +89,7 @@ public class ContainerTest {
             }
         };
         device.executeShellCommand("", reciever);
+
     }
 
 }
